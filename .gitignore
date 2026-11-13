@@ -1,0 +1,4 @@
+*/__pycache__/*
+*/migrations/*
+!__init__.py
+!__init__.cpython-315.pyc

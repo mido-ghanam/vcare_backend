@@ -2,4 +2,7 @@ asgiref==3.13.0
 Django==6.1.3
 django-cors-headers==4.9.0
 djangorestframework==3.18.3
+drf-spectacular==0.28.0
 sqlparse==0.6.1
+django-phonenumber-field[phonenumberslite]
+djangorestframework-simplejwt==5.5.1
